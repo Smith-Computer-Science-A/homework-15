@@ -1,3 +1,4 @@
 # Ignore  all compiled java files
 *.class
 GRADE.md
+/bin/
