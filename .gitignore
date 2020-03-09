@@ -1,4 +1,3 @@
-# Ignore  all compiled java files
-*.class
+.DS_Store
 GRADE.md
 /bin/
